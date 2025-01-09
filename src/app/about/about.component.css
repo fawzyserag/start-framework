@@ -1,0 +1,32 @@
+.about {
+  background-color: #1abc9c;
+  height: 623.6px;
+  margin-top: 86px;
+}
+.parent {
+  position: relative;
+  padding-top: 100px;
+}
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: white;
+}
+.info {
+  padding-top: 24px;
+}
+.star {
+  margin-bottom: 16px;
+}
+.container p{
+  text-align: left;
+}
+.info{
+  padding-top: 24px;
+}
